@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_explore.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_translate.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_trend.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_videomaker.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_wikimedia.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/ic_wikipedia_detail.xml" value="0.1505" />
+        <entry key="app/src/main/res/drawable/shape_circle.xml" value="0.1505" />
+        <entry key="app/src/main/res/layout/activity_2.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/card_item_photographer.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/fragment_explore.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/fragment_photographer.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/fragment_test.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_translator.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/fragment_trend.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_videomaker.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/fragment_writer.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/header_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.17567567567567569" />
+        <entry key="app/src/main/res/layout/item_card_test.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_explore.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_test.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_trend.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/test_layout.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/menu_bottem_navigation.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/menu/menu_navigation_drawer.xml" value="0.17567567567567569" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
